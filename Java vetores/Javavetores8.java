@@ -73,4 +73,6 @@ public class Javavetores8 {
           System.out.println("Os números digitados na ordem crescente são: "+b+d+c+a);
         }else{
             System.out.print("");
+          }
         }
+}
